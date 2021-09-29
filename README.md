@@ -11,4 +11,3 @@ A job search web application using a [google API](https://cloud.google.com/talen
   - By company name
   - By job title
   - By required language
----
